@@ -1,0 +1,8 @@
+D:\.net\code\test05\test05_2\bin\Debug\test05_2.exe
+D:\.net\code\test05\test05_2\bin\Debug\test05_2.pdb
+D:\.net\code\test05\test05_2\obj\Debug\test05_2.Form1.resources
+D:\.net\code\test05\test05_2\obj\Debug\test05_2.Properties.Resources.resources
+D:\.net\code\test05\test05_2\obj\Debug\test05_2.csproj.GenerateResource.cache
+D:\.net\code\test05\test05_2\obj\Debug\test05_2.csproj.CoreCompileInputs.cache
+D:\.net\code\test05\test05_2\obj\Debug\test05_2.exe
+D:\.net\code\test05\test05_2\obj\Debug\test05_2.pdb
