@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+    	//testGithubCover
         /// <summary>
         /// 必需的设计器变量。
         /// </summary>
