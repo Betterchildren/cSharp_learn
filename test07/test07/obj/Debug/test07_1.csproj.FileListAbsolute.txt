@@ -1,0 +1,9 @@
+D:\.net\code\test07\test07\bin\Debug\test07.exe
+D:\.net\code\test07\test07\bin\Debug\test07.pdb
+D:\.net\code\test07\test07\obj\Debug\test07_1.csprojAssemblyReference.cache
+D:\.net\code\test07\test07\obj\Debug\test07.Form1.resources
+D:\.net\code\test07\test07\obj\Debug\test07.Properties.Resources.resources
+D:\.net\code\test07\test07\obj\Debug\test07_1.csproj.GenerateResource.cache
+D:\.net\code\test07\test07\obj\Debug\test07_1.csproj.CoreCompileInputs.cache
+D:\.net\code\test07\test07\obj\Debug\test07.exe
+D:\.net\code\test07\test07\obj\Debug\test07.pdb
