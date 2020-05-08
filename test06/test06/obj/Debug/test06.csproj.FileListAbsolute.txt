@@ -1,0 +1,10 @@
+D:\.net\code\test06\test06\bin\Debug\Penguins.jpg
+D:\.net\code\test06\test06\bin\Debug\test06.exe
+D:\.net\code\test06\test06\bin\Debug\test06.pdb
+D:\.net\code\test06\test06\obj\Debug\test06.csprojAssemblyReference.cache
+D:\.net\code\test06\test06\obj\Debug\test06.Form1.resources
+D:\.net\code\test06\test06\obj\Debug\test06.Properties.Resources.resources
+D:\.net\code\test06\test06\obj\Debug\test06.csproj.GenerateResource.cache
+D:\.net\code\test06\test06\obj\Debug\test06.csproj.CoreCompileInputs.cache
+D:\.net\code\test06\test06\obj\Debug\test06.exe
+D:\.net\code\test06\test06\obj\Debug\test06.pdb
