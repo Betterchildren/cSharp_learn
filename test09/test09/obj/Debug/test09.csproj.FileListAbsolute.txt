@@ -1,0 +1,12 @@
+D:\.net\code\test09\test09\obj\Debug\test09.Add.resources
+D:\.net\code\test09\test09\obj\Debug\test09.Main.resources
+D:\.net\code\test09\test09\obj\Debug\test09.Properties.Resources.resources
+D:\.net\code\test09\test09\obj\Debug\test09.Delete.resources
+D:\.net\code\test09\test09\obj\Debug\test09.Update.resources
+D:\.net\code\test09\test09\obj\Debug\test09.csproj.GenerateResource.cache
+D:\.net\code\test09\test09\obj\Debug\test09.csproj.CoreCompileInputs.cache
+D:\.net\code\test09\test09\obj\Debug\test09.csprojAssemblyReference.cache
+D:\.net\code\test09\test09\bin\Debug\test09.exe
+D:\.net\code\test09\test09\bin\Debug\test09.pdb
+D:\.net\code\test09\test09\obj\Debug\test09.exe
+D:\.net\code\test09\test09\obj\Debug\test09.pdb
